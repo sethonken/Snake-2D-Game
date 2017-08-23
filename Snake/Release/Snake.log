@@ -1,0 +1,52 @@
+﻿  main.cpp
+main.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(217): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(218): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(219): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(230): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(231): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(232): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(233): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(299): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(300): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(301): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(302): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(305): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(306): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(307): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(308): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(311): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(312): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(313): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(314): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(317): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(318): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(319): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(320): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(353): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(354): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(355): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(356): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(372): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(374): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(375): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+main.cpp(455): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+main.cpp(468): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(242): note: see declaration of 'freopen'
+main.cpp(1247): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.cpp(1258): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(1267): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(1268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+SOIL.lib(SOIL.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 230 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+SOIL.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_DXT.obj)' or at 'C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(image_helper.obj)' or at 'C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(SOIL.obj)' or at 'C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Release\SOIL.pdb'; linking object as if no debug info
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'SOIL.lib(stb_image_aug.obj)' or at 'C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Release\SOIL.pdb'; linking object as if no debug info
+  Snake.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Release\Snake.exe

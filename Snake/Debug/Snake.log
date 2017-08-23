@@ -1,0 +1,27 @@
+﻿  main.cpp
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(212): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(213): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(214): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(215): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(226): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(227): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(229): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(240): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(241): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(242): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(243): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(282): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(283): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(284): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(285): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(301): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(302): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(303): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(304): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(906): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(915): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\seth\documents\visual studio 2017\projects\snake\snake\main.cpp(916): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Debug\Snake.exe
+  Snake.vcxproj -> C:\Users\Seth\Documents\Visual Studio 2017\Projects\Snake\Debug\Snake.pdb (Partial PDB)
